@@ -1,0 +1,38 @@
+#content {
+	width: 860px;
+	margin: 0 auto;
+}
+
+#left, #right {
+	width: 88px;
+}
+
+#center {
+	width: 600px;
+}
+
+#left, #center, #right {
+	float: left;
+}
+
+#center {
+	margin: 8px 8px;
+}
+
+#center p {
+	margin-top: 0px;
+	margin-bottom: 8px;
+	text-align: center;
+	font-size: 120%;
+}
+
+img {
+	display: block;
+	margin: 4px 4px;
+}
+
+#footer {
+	margin-top: 10px;
+	font-size: 90%;
+	text-align: center;
+}
